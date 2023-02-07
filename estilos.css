@@ -1,0 +1,38 @@
+
+.nombre-sitio{
+
+    text-align: center;
+}
+.izquierda { 
+    float: left; background-color:#38a7ff; 
+    width: 360px; height: 960px; 
+    margin-top: 1rem; margin-bottom: 1rem; 
+    }
+
+.derecha { 
+    float: right;
+    text-align: center;
+    width: 74%; height: 700px; 
+    margin-top: 50px; 
+    margin-bottom: 10px; }
+
+.imagen{
+    text-align: center;
+}
+.texto-perfil
+{
+    color: white;
+    padding: 1em;
+}
+.texto-contacto{
+    color: white;
+    padding: 1em;
+    
+}
+.texto-conocimiento{
+    color: white;
+    padding: 1em;
+}
+.texto-habilidades{
+    display: flex;
+}
